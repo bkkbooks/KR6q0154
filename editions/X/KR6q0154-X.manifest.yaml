@@ -1,0 +1,114 @@
+canonical_identifier: bkk:krp/KR6q0154/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0154/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪林寶訓合註
+  identifiers:
+    krp: KR6q0154
+    cbeta: X64n1263
+    cbeta_old_id: X64n1263
+    authorityid: CA0000391
+    json_key: X1263
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1263.xml
+    old_id: X64n1263
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0154_000-X.yaml, hash: 'sha256:bd40ef5b9b3d5c5ac1932690fbf43cb8594ca326f1c0c7edbf4aa1bc9024a210'}
+  - {seq: 1, filename: KR6q0154_001-X.yaml, hash: 'sha256:b436a935dec481c563dcbf32f801c585bbbeabab16de0293996237cd9d3632e2'}
+  - {seq: 2, filename: KR6q0154_002-X.yaml, hash: 'sha256:e41b47eae9c59607a93b021209e9d9689977e1f158a911b7abd7af64d1f60b32'}
+  - {seq: 3, filename: KR6q0154_003-X.yaml, hash: 'sha256:01e2a7b36e913729e2ff8af14749a12ab6889d0555d05fcda81c74a04eda7361'}
+  - {seq: 4, filename: KR6q0154_004-X.yaml, hash: 'sha256:64e73338cba6d34a84faebc9b7bf39bec807b6f82f42afcf62f0d76ffb9b8953'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0154_000-X.markers.yaml, hash: 'sha256:c26bb5104d92d06a9dfeb4680a6e3e713b7bd7b02fe7af1cbfc141d97009a220'}
+  - {seq: 1, role: markers, filename: assets/KR6q0154_001-X.markers.yaml, hash: 'sha256:ac4f51d074544e3f12cb88ff2e15483a1a8039badc5246071b22e53ac8c39368'}
+  - {seq: 2, role: markers, filename: assets/KR6q0154_002-X.markers.yaml, hash: 'sha256:4092c7da590045fc2f5c5222182437146b24053ce325793d8885baa554217c7d'}
+  - {seq: 3, role: markers, filename: assets/KR6q0154_003-X.markers.yaml, hash: 'sha256:53a39c275e13af17f16d147e9f487a01319c4cae217d77b72dbf017e412ad4e4'}
+  - {seq: 4, role: markers, filename: assets/KR6q0154_004-X.markers.yaml, hash: 'sha256:4bf7d125a5920886f79622f60723cca5caf6002ddbc1fa53e83f1d395c80b1cf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0154_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1263-A 禪林寶訓序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0154_X_000-mulu-2
+    span:
+    - front
+    - 294
+    - 294
+  label: No. 1263-B 禪林寶訓合註序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0154_X_000-mulu-3
+    span:
+    - front
+    - 576
+    - 576
+  label: No. 1263-C 禪林寶訓合註敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0154_X_000-mulu-4
+    span:
+    - front
+    - 1218
+    - 1218
+  label: No. 1263-D 禪林寶訓序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0154_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18477
+  label: 禪林寶訓合註卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0154_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15884
+  label: 禪林寶訓合註卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0154_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15956
+  label: 禪林寶訓合註卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0154_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 14362
+  label: 禪林寶訓合註卷第四
+  type: juan
+  level: 1
+hash: sha256:b2b7d2feb7072d27c426611d176e8e5884c60ef2d6a9998efe2e2e614ea7f320
