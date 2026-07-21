@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0154_000-X.yaml, hash: 'sha256:bd40ef5b9b3d5c5ac1932690fbf43cb8594ca326f1c0c7edbf4aa1bc9024a210'}
+  - {seq: 0, filename: KR6q0154_000-X.yaml, hash: 'sha256:57d0b111b3c81bca5b3d13965f2ba63a806e396ab587e1a6609dcfc12a894ceb'}
   - {seq: 1, filename: KR6q0154_001-X.yaml, hash: 'sha256:b436a935dec481c563dcbf32f801c585bbbeabab16de0293996237cd9d3632e2'}
   - {seq: 2, filename: KR6q0154_002-X.yaml, hash: 'sha256:e41b47eae9c59607a93b021209e9d9689977e1f158a911b7abd7af64d1f60b32'}
   - {seq: 3, filename: KR6q0154_003-X.yaml, hash: 'sha256:01e2a7b36e913729e2ff8af14749a12ab6889d0555d05fcda81c74a04eda7361'}
   - {seq: 4, filename: KR6q0154_004-X.yaml, hash: 'sha256:64e73338cba6d34a84faebc9b7bf39bec807b6f82f42afcf62f0d76ffb9b8953'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0154_000-X.markers.yaml, hash: 'sha256:c26bb5104d92d06a9dfeb4680a6e3e713b7bd7b02fe7af1cbfc141d97009a220'}
+  - {seq: 0, role: markers, filename: assets/KR6q0154_000-X.markers.yaml, hash: 'sha256:e9e1f1bbf0342de384a9f25f6458db6f94577e28bea42c8aa37ec6008d38ba36'}
   - {seq: 1, role: markers, filename: assets/KR6q0154_001-X.markers.yaml, hash: 'sha256:ac4f51d074544e3f12cb88ff2e15483a1a8039badc5246071b22e53ac8c39368'}
   - {seq: 2, role: markers, filename: assets/KR6q0154_002-X.markers.yaml, hash: 'sha256:4092c7da590045fc2f5c5222182437146b24053ce325793d8885baa554217c7d'}
   - {seq: 3, role: markers, filename: assets/KR6q0154_003-X.markers.yaml, hash: 'sha256:53a39c275e13af17f16d147e9f487a01319c4cae217d77b72dbf017e412ad4e4'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0154_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1263-A 禪林寶訓序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0154_X_000-mulu-2
     span:
-    - front
+    - body
     - 294
     - 294
   label: No. 1263-B 禪林寶訓合註序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0154_X_000-mulu-3
     span:
-    - front
+    - body
     - 576
     - 576
   label: No. 1263-C 禪林寶訓合註敘
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0154_X_000-mulu-4
     span:
-    - front
+    - body
     - 1218
     - 1218
   label: No. 1263-D 禪林寶訓序
@@ -111,4 +111,4 @@ table_of_contents:
   label: 禪林寶訓合註卷第四
   type: juan
   level: 1
-hash: sha256:b2b7d2feb7072d27c426611d176e8e5884c60ef2d6a9998efe2e2e614ea7f320
+hash: sha256:baea245063e142d95e39368ae704e97873196f8cd8b8723242bcfd11a851f785
